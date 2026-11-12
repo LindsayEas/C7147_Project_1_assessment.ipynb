@@ -1,6 +1,5 @@
 **Next-generation sequencing (NGS) Mutation Analysis**
 
-Hellooooooo
 
 This program automates read validation and mutation mapping for next-generation sequencing (NGS) data. It investigates nucleotide mismatch patterns and substitution profiles associated with genotoxic agents in yeast samples.
 
